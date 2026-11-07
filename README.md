@@ -2,6 +2,10 @@
 
 An in-depth field analysis of Pakistan's education framework, evaluating infrastructural deficits, gender disparities, and curriculum updates through primary datasets and interviews. It concludes with structural policy reforms grounded in community engagement and equity.
 
+## About this project
+
+A civic-engagement project at NUML, Faisalabad, led by Wajid Ali with a team of eight. The analysis is based on interviews with professors, heads of departments, students and teachers, together with the survey responses in `Data/`.
+
 ## What this repository contains
 
 - **Data** — `Survey on Education System (Responses).xlsx`: the survey responses behind the analysis.
@@ -11,3 +15,7 @@ An in-depth field analysis of Pakistan's education framework, evaluating infrast
 ## How to read it
 
 Start with the project report in `Project-Reports/` for the full analysis and recommendations, use the presentation in `Presentation/` for a short overview, and use the survey responses in `Data/` for the underlying evidence.
+
+---
+
+*By [Wajid Ali](https://github.com/wajidcodes) — [wajidali-portfolio.vercel.app](https://wajidali-portfolio.vercel.app)*
